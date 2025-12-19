@@ -76,3 +76,10 @@ Employee designation levels
 • CSV File Handling<br>
 • Business Rule Implementation<br>
 • Exploratory Data Analysis 
+
+
+
+## 👤 Author<br>
+Suyash Kabra<br>
+SAP SD Professional | Aspiring Data Analyst<br>
+Skills: Power BI, Python, Pandas, SQL, Data Analytics, Business Intelligence
